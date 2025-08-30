@@ -60,7 +60,7 @@
       <nav>
         <a class="btn btn-outline" href="#services">Services</a>
         <a class="btn btn-outline hide-sm" href="#how">How it works</a>
-        <a class="btn btn-primary" href="mailto:dilipkhanal8@gmail.com?subject=Bookkeeping%20enquiry&body=Hi%20Dilip%2C%20we'd%20like%20to%20chat%20about%20bookkeeping.%20">Email Dilip</a>
+        <a class="btn btn-primary" href="form:https://docs.google.com/forms/d/e/1FAIpQLSfKm91Tw7bE5LzPSRQMJpxk5VdSHNJ4UhTDThzqucItjG8kiA/viewform?usp=header?subject=Bookkeeping%20enquiry&body=Hi%20Dilip%2C%20we'd%20like%20to%20chat%20about%20bookkeeping.%20">Email Dilip</a>
       </nav>
     </div>
   </header>
@@ -73,7 +73,7 @@
           <h1>Support for small & medium businesses—AP, AR, Payroll, and daily finance records</h1>
           <p class="lead">I help you keep clean, timely books so you can focus on running the business. Remote support across Australia and on-site by arrangement in SA.</p>
           <div style="display:flex; gap:12px; margin-top:16px; flex-wrap: wrap;">
-            <a class="btn btn-primary" href="mailto:dilipkhanal8@gmail.com?subject=Free%20intro%20call&body=Hi%20Dilip%2C%20I%27d%20like%20a%2015-minute%20intro%20call.%20">Book a free intro call</a>
+            <a class="btn btn-primary" href="form:https://docs.google.com/forms/d/e/1FAIpQLSfKm91Tw7bE5LzPSRQMJpxk5VdSHNJ4UhTDThzqucItjG8kiA/viewform?usp=header?subject=Free%20intro%20call&body=Hi%20Dilip%2C%20I%27d%20like%20a%2015-minute%20intro%20call.%20">Book a free intro call</a>
             <a class="btn" href="#services">Explore services</a>
           </div>
         </div>
